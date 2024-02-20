@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 new develop branch file
+=======
+新增分支 new branch
+>>>>>>> 新增分支
